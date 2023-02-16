@@ -2,7 +2,7 @@
 main(){
 	double base=4,height=2,area,result,a,b;
 	area=(base*height)/2;
-	printf("area of rectangle :%lf",area);
+	printf("area of Triangle :%lf",area);
 	x:
 	printf("\nFind Area of Triangle\n");
 	printf("Enter Base:");
