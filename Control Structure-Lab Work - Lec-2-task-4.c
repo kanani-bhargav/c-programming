@@ -50,4 +50,5 @@ float main(){
 		}
 	}
 	goto x;
+	return 0;
 }
